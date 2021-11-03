@@ -1,12 +1,25 @@
-.walrus-showing {
+.moreinfo {
   display: none;
 }
 
-.clickable {
-  cursor: pointer;
-  color: #0088cc;
+.nopic {
+  display: none;
 }
 
-.clickable:hover {
+.si {
+  cursor: pointer;
+  color:orange;
+}
+
+.si:hover {
   text-decoration: underline;
+}
+
+.no {
+  cursor: pointer;
+  color: orange;
+}
+
+.no:hover {
+  text-decoration:underline;
 }
